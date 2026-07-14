@@ -1,0 +1,4 @@
+PySide6>=6.6.0
+pandas>=2.0.0
+seaborn>=0.13.0
+matplotlib>=3.7.0
